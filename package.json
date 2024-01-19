@@ -1,0 +1,16 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "author": "Hernande Monteiro <monteiro1998@live.com>",
+  "main": "app.ts",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "tsx watch ./app.ts"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
